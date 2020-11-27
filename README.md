@@ -1,7 +1,7 @@
 # Disaster Response Pipeline Project
 
 ## Introduction
-This project is project 2 - Disaster Reponse Pipeline for Udacity's Data Scientist Nanodegree. The project will users to classify disaster messages into different categories including medical, infrastructure and supply (full list of categories available in the application)
+This project is project 2 - Disaster Reponse Pipeline for Udacity's Data Scientist Nanodegree. The project will allow users to classify disaster messages into different categories including medical, infrastructure and supply (full list of categories available in the application)
 
 Three visualisations have been included:
 1. Genre Counts - This is a count of messages split by genre used in the training set for the model.
